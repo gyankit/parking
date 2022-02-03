@@ -1,0 +1,28 @@
+{
+  "name": "parking",
+  "version": "1.0.0",
+  "description": "Parking Management System",
+  "main": "./bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyankit/parking.git"
+  },
+  "keywords": [],
+  "author": "Gyan Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyankit/parking/issues"
+  },
+  "homepage": "https://github.com/gyankit/parking#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
