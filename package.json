@@ -20,7 +20,8 @@
   "homepage": "https://github.com/gyankit/parking#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mongoose": "^6.2.0"
+    "mongoose": "^6.2.0",
+    "node-schedule": "^2.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
