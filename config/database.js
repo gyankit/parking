@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const _URL = `mongodb+srv://gyankit:gyankit@freecluster.ruqzn.mongodb.net/parking?retryWrites=true&w=majority`;
+const _URL = '';
 
 module.exports = {
     connect: async () => {
